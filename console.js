@@ -214,7 +214,7 @@ setTimeout(() => {
                     alert(
                         "Me alegro que hayas llegado hasta el final. Espero que este proyecto haya sido entretenido :)",
                     );
-                    alert("Para la revisión de este código visita mi GitHub en: ");
+                    alert("Para la revisión de este código visita mi GitHub en: https://github.com/BarbaraQ27/Aplicacion-de-consola");
                     alert("Nos vemos!");
 
                     console.log("Adios! Que tengas un buen día!");
