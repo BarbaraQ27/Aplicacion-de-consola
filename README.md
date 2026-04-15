@@ -1,5 +1,7 @@
 # Proyecto #3: Aplicación de Consola
 
+[![Open Demo](https://github.com/codespaces/badge.svg)](https://barbaraq27.github.io/Aplicacion-de-consola/)
+
 Aplicación de Consola es un proyecto de introducción a JavaScript y sus conceptos básicos de variables, funciones y objetos. Este proyecto busca interactuar con la consola (realizado en DevTools de Google Chrome) mediante prompts simples que permitan realizar operaciones matemáticas sencillas. 
 
 El proyecto se basa en un carrito de compras e inventario, donde logra añadir productos a un array, realizar una suma total, gestionar un inventario con un stock simple y actualizarlo mediante una calculadora.
